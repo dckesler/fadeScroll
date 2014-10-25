@@ -11,10 +11,10 @@ There are two variable set to the directive scope.
 
 ###Example
 
-<div fade-scroll fade="2" start="500">
+`<div fade-scroll fade="2" start="500">`
 
 The element will begin to fade out at 500 pixels from the top, and the rate will be twice that of normal.
 
-<div fade-scroll>
+`<div fade-scroll>`
 
 The element will beging to fade out immediately at the default rate.
